@@ -86,3 +86,14 @@ While manufacturing emissions have fallen, emissions from product transport and 
 
 4. Analysis revealed that product-level emissions have not followed a consistent downward trend over the years. Despite corporate-level reductions in Apple’s total greenhouse gas emissions, the environmental intensity per product has fluctuated, with the iPhone X (2017) recording the highest footprint at 79 kg CO₂e. More recent models, such as the iPhone 13 (2021) and iPhone 14 (2023), show modest reductions but still reflect the persistent impact of production and material sourcing, as emissions per product are still greater than the iPhone 6s of 2015.
 The data suggests that while operational and supply chain efficiency measures contribute to overall emission cuts, product design and material composition remain significant determinants of carbon output. 
+
+
+### Recommendations
+1. Strengthen Supply Chain Carbon Accountability (Scope 3)
+Since over 95% of Apple’s total carbon footprint originates from Scope 3 emissions, particularly manufacturing, logistics, and product use, Apple should continue to enforce supplier-level carbon reduction targets. Integrating supplier sustainability performance metrics into procurement decisions and developing a traceable carbon ledger could enhance accountability and reduce indirect emissions. Encouraging third-party verification of supplier data would also improve the credibility of reported reductions.
+
+2. Enhance Product Lifecycle Transparency
+While product emissions have gradually declined per unit, the total footprint associated with annual product releases remains significant due to volume growth. Apple can reduce this by:
+Extending product lifecycles through modular design and easier repairability.
+Expanding device trade-in and recycling programs in underrepresented regions.
+Publishing lifecycle carbon intensity per product line, not just corporate totals, to make progress measurable.
